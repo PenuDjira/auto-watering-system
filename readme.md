@@ -109,6 +109,9 @@ Auto Watering System Ready
 
 ---
 
+## Note
+Demo uses sensor + relay only. Pump wiring is included in the code and diagram — swap in your pump at the NO terminal.
+
 ## What's Next
 
 This is Part 2 of a series:
