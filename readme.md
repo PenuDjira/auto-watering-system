@@ -127,4 +127,4 @@ This is Part 2 of a series:
 Kupang, NTT, Indonesia
 
 - YouTube: [@PenuDjira](https://youtube.com/@PenuDjira)
-- GitHub: [DeprisonArianto](https://github.com/PenuDjira)
+- GitHub: [Penu Djira](https://github.com/PenuDjira)
